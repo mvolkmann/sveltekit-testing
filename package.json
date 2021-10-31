@@ -14,7 +14,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "test": "jest src",
-    "test watch": "npm run test -- --watch"
+    "test:watch": "npm run test -- --watch"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
